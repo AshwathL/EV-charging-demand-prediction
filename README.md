@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # EV-charging-demand-prediction
 
 # 🚗 EV Charging Demand Prediction
@@ -32,5 +31,4 @@ Optimizing charging station infrastructure
 Managing grid load effectively
 Providing better services to EV users
 =======
-# EV-charging-demand-prediction
->>>>>>> origin/main
+
