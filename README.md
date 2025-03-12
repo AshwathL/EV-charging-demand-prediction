@@ -26,9 +26,8 @@ Port Number
 Ended by Customer/Door
 🌍 Results
 The model predicts EV charging demand with high accuracy. This can help in:
+-> Optimizing charging station infrastructure
+-> Managing grid load effectively
+-> Providing better services to EV users
 
-Optimizing charging station infrastructure
-Managing grid load effectively
-Providing better services to EV users
-=======
 
