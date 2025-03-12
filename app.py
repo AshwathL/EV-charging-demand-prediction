@@ -4,7 +4,7 @@ from datetime import datetime
 import numpy as np
 
 # Load your CSV file with station names and coordinates
-df = pd.read_csv("D:/EV Charging project/data/EVChargingStationUsage.csv", low_memory=False)
+df = pd.read_csv("data/EVChargingStationUsage.csv", low_memory=False)
 
 # Extract the relevant columns
 new_df = df[['Station Name', 'Latitude', 'Longitude']].drop_duplicates()
