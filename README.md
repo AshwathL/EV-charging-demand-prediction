@@ -31,3 +31,7 @@ The model predicts EV charging demand with high accuracy. This can help in:
 -> Providing better services to EV users
 
 
+To view the live demo of the app click here:
+https://ev-charging-demand-prediction-qckqxymsrv7ktkxrd6e5ta.streamlit.app/
+
+
