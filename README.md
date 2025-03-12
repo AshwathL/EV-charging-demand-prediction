@@ -7,7 +7,7 @@ This project predicts EV charging demand (in kWh) based on historical charging s
 ## 🚀 How to Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/EV_Charging_Demand_Prediction.git
+git clone https://github.com/AshwathL/EV-charging-demand-prediction.git
 
 pip install -r requirements.txt
 
